@@ -1,0 +1,2 @@
+wel = "welcome"
+print(wel)
