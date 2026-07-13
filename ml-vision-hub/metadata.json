@@ -1,0 +1,6 @@
+{
+  "name": "ML Vision Hub",
+  "description": "A highly visual, responsive, and professional Machine Learning engineering portfolio displaying custom neural simulators, live training analytics, preprocessed datasets, and expert AI solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
