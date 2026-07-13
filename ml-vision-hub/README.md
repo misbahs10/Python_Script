@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/909d2b0e-2e91-4930-a8d9-a1d33390c694
+View your app in AI Studio: https://ml-vision-hub.ai.studio
 
 ## Run Locally
 
